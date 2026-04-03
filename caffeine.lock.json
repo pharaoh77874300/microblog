@@ -4,9 +4,14 @@
     "build_template": "1.0.0"
   },
   "components": {
-    "core-infrastructure": "1.0.0",
-    "build-template-react": "1.0.0"
+    "core-infrastructure": "1.0.3",
+    "build-template-react": "1.1.0",
+    "shadcn-ui": "1.0.0",
+    "initial-app": "1.0.0",
+    "github-export-icp-cli": "1.0.1",
+    "blob-storage": "4.0.0"
   },
-  "aiCoreVersion": "0.17.0",
-  "coreLibVersion": "implicits-20"
+  "aiCoreVersion": "0.dev",
+  "coreLibVersion": "implicits-20",
+  "tags": []
 }
